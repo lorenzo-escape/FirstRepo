@@ -1,6 +1,9 @@
 #include <iostream>
 
+int SlotsUsed(int items);
+
 int main()
 {
-	std::cout << "A first message";
+	std::cout << SlotsUsed(4) << "\n";
+	return 0;
 }
