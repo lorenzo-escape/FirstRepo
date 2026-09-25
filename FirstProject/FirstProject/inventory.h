@@ -4,4 +4,4 @@
 
 int SlotsUsed(int items);
 
-#endif // INVENTORY_H
+#endif INVENTORY_H

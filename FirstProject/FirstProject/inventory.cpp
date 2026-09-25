@@ -1,5 +1,5 @@
 #include "inventory.h"
 int SlotsUsed(int items)
 {
-	return items;
+	return 10 - items;
 }
